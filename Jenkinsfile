@@ -1,3 +1,3 @@
- echo 'Hello from Pipeline'
+ #!groovy
    
 
